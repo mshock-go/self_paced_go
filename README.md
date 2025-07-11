@@ -1,0 +1,2 @@
+# self_paced_go
+yandex_lyceum_self_paced_go
